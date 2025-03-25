@@ -1,0 +1,22 @@
+# Compiled binary files
+.exe
+.o
+.obj
+.log
+.pdb
+.ilk
+
+# Visual Studio project-related files
+.sln
+.vcxproj.
+.user
+.suo
+.VC.db
+
+# Build output directories
+Debug
+Release
+x64
+
+# Dynamic Link Libraries
+.dll
