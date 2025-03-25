@@ -1,0 +1,22 @@
+# Derlenmiş dosyalar
+*.exe
+*.o
+*.obj
+*.log
+*.pdb
+*.ilk
+
+# Visual Studio proje dosyaları
+*.sln
+*.vcxproj.*
+*.user
+*.suo
+*.VC.db
+
+# Derleme klasörleri
+Debug/
+Release/
+x64/
+
+# DLL dosyaları
+*.dll
